@@ -5,6 +5,8 @@ before_install:
   - sudo apt-get update
 
 script:
+  - sudo apt-get install libirrlicht1.8 libirrlicht-dev libirrlicht-doc
+  - sudo apt-get install libsfml-dev
   - cmake .
   - make
 
