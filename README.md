@@ -1,5 +1,7 @@
 <div align="center"><h1>Indie Studio - Epitech 2019</h1>
 
+[![Build Status](https://travis-ci.org/HugoSohm/IndieStudio.svg?branch=master)](https://travis-ci.org/HugoSohm/IndieStudio)
+
 L'Indie Studio est un projet est un projet graphique de 1 mois réalisé par 5 étudiants à [Epitech Nice](https://www.epitech.eu/fr/)
 
 [Hugo Sohm](https://github.com/HugoSohm), [Tristan Morera](https://github.com/HByser), [Ryan Chamayrac](https://github.com/RyanChamayrac), [Tom Rouvier](https://github.com/Daykem), [Baptiste Tougouri](https://github.com/Popolipolipopo), [Thibault Foucou](https://github.com/foucouthibault)
