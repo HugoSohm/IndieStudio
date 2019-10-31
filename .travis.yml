@@ -1,0 +1,12 @@
+language: c++
+group: stable
+os: linux
+before_install:
+  - sudo apt-get update
+
+script:
+  - cmake .
+  - make
+
+notifications:
+  email: false
