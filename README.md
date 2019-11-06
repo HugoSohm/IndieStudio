@@ -1,7 +1,6 @@
 <div align="center"><h1>Indie Studio - Epitech 2019</h1>
 
 [![Build Status](https://travis-ci.org/HugoSohm/IndieStudio.svg?branch=master)](https://travis-ci.org/HugoSohm/IndieStudio)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b12c7421a93f93a375d5/maintainability)](https://codeclimate.com/github/HugoSohm/Epimeal/maintainability)
 
 L'Indie Studio est un projet est un projet graphique de 1 mois réalisé par 5 étudiants à [Epitech Nice](https://www.epitech.eu/fr/)
 
